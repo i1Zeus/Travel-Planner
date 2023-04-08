@@ -1,5 +1,5 @@
 <template>
   <div>
-    <h1>This is an about page</h1>
+    <p text="200px">fuck off</p>
   </div>
 </template>
