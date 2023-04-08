@@ -1,5 +1,5 @@
 <template>
   <div>
-    fuck off
+    <p text="200px">fuck off</p>
   </div>
 </template>
