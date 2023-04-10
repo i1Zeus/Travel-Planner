@@ -5,6 +5,7 @@ import App from './App.vue'
 import router from './router'
 
 import 'uno.css'
+import 'virtual:uno.css'
 import './assets/main.css'
 
 const app = createApp(App)
